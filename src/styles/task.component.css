@@ -1,0 +1,9 @@
+.task {
+  text-align: center;
+}
+
+.task-button {
+  width: 200px;
+  height: 50px;
+  position: relative;
+}
