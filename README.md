@@ -1,4 +1,10 @@
-Please note: Todo Test App is not completed yet, however it's fully functional as of 3/28/2019
+Clone repository first, next run the following command:
+
+npm install
+
+Finally, run this command:
+
+npm start
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
